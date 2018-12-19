@@ -1,10 +1,10 @@
 import tkinter
 import tweepy
 
-CONSUMER_KEY = 'RpKtytUBR94erhUkSbkQcfNOZ'
-CONSUMER_SECRET = 'vUAJXxJuE63VhXwwbY1AhUGA88rbFq5S4qkNDEP3QC2RyjfoBY'
-ACCESS_TOKEN = '3145828138-c0byLyH1SkCDiYoZVYXLyiozX40x1XqbOINnWIM'
-ACCESS_TOKEN_SECRET = 'Tfc1fFfcyxPzjx19Wyd6d1xZhUMzxQkTvHurab6eeCax5'
+CONSUMER_KEY = 'Consumer Key'
+CONSUMER_SECRET = 'Consumer Secret'
+ACCESS_TOKEN = 'Access Token'
+ACCESS_TOKEN_SECRET = 'Access Token Secret'
 
 class TweetBotApplication:
     # builds TweetBot GUI 
